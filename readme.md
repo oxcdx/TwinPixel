@@ -12,19 +12,19 @@ changed using the 'frameRate' variable in ofApp.cpp.
 It uses ofxOpenCV and ofxFft addons and is based on code from the 
 following examples:
 
-    https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/sound/audioOutputExample
-    https://github.com/kylemcdonald/ofxFft/tree/master/example-process-input
-    https://github.com/twobeers83/hueVideo
+https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/sound/audioOutputExample
+https://github.com/kylemcdonald/ofxFft/tree/master/example-process-input
+https://github.com/twobeers83/hueVideo
 
 It was developed to create a real time input version of what is achieved 
 by Simon Crowe here:
 
-    https://github.com/simoncrowe/dominant_frequencies_video
+https://github.com/simoncrowe/dominant_frequencies_video
 
 Various art related applications of this project are detailed at:
 
-    https://oc-d.co.uk/portfolio/twin-pixel/ 
-    https://compiler.zone/
+https://oc-d.co.uk/portfolio/twin-pixel/ 
+https://compiler.zone/
     
 
     
