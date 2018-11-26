@@ -27,13 +27,13 @@ https://oc-d.co.uk/portfolio/twin-pixel/
 https://compiler.zone/
    
 <br><br>
-<b>Notes for use on Raspberry Pi (or FTTW in general)</b>
+<b>Notes for use on Raspberry Pi (or FFTW in general)</b>
 
-Could not get it to work using Kiss, only using FTTW. 
+Could not get it to work using KISS FFT, only using FTTW. 
 
-ofxFft is set to use (FTTW by default on linuxarmv6l and linuxarmv7l). However the following steps were needed to make it work:
+ofxFft is set to use (FFTW by default on linuxarmv6l and linuxarmv7l). However the following steps were needed to make it work:
 
-First install the FTTW library using:
+First install the FFTW library using:
 
     sudo apt-get install libfftw3-dev
     
