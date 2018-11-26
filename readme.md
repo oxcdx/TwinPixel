@@ -25,9 +25,23 @@ Various art related applications of this project are detailed at:
 
 https://oc-d.co.uk/portfolio/twin-pixel/ 
 https://compiler.zone/
+   
+   
+<b>Notes for use on Raspberry Pi (or FTTTW in general)</b>
+
+Could not get it to work using Kiss, only using FTTW. 
+
+ofxFft is set to use (FTTW by default on linuxarmv6l and linuxarmv7l). However the following steps were needed to make it work:
+
+First install the FTTW library using:
+
+    sudo apt-get install libfftw3-dev
     
+Then add: 
 
-    
+     PROJECT_EXTERNAL_SOURCE_PATHS = ../../../addons/ofxFft/src     
 
+To config.make
 
+Do NOT use 'ofxFft' in addons.make
 
