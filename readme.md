@@ -26,7 +26,7 @@ Various art related applications of this project are detailed at:
 https://oc-d.co.uk/portfolio/twin-pixel/ 
 https://compiler.zone/
    
-   
+<br><br>
 <b>Notes for use on Raspberry Pi (or FTTW in general)</b>
 
 Could not get it to work using Kiss, only using FTTW. 
@@ -45,3 +45,4 @@ To config.make
 
 Do NOT use 'ofxFft' in addons.make
 
+Compile using make
