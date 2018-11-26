@@ -13,7 +13,9 @@ It uses ofxOpenCV and ofxFft addons and is based on code from the
 following examples:
 
 https://github.com/openframeworks/openFrameworks/tree/patch-release/examples/sound/audioOutputExample
+
 https://github.com/kylemcdonald/ofxFft/tree/master/example-process-input
+
 https://github.com/twobeers83/hueVideo
 
 It was developed to create a real time input version of what is achieved 
