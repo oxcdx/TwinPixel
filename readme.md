@@ -27,7 +27,7 @@ https://oc-d.co.uk/portfolio/twin-pixel/
 https://compiler.zone/
    
    
-<b>Notes for use on Raspberry Pi (or FTTTW in general)</b>
+<b>Notes for use on Raspberry Pi (or FTTW in general)</b>
 
 Could not get it to work using Kiss, only using FTTW. 
 
